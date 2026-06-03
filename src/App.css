@@ -1,0 +1,13 @@
+body {
+    padding: 30px 5vw;
+    background: #c3c3c7;
+    background: linear-gradient(90deg, rgb(209, 209, 212) 0%, rgb(130, 130, 139) 58%, rgba(95, 102, 106, 1) 100%);
+    font-family: "poppins", sans-serif;
+    color: #292929;
+}
+
+body.dark {
+    background: linear-gradient(300deg, #4d4b4b 0%, #383838 100%);
+    min-height: 100vh;
+    color: white;
+}
